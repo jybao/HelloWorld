@@ -39,7 +39,15 @@
 					"sink": {
 						"type": "AzureSqlSink"
 					},
-					"enableStaging": false,
+					"enableStaging": true,
+					"stagingSettings": {
+						"linkedServiceName": {
+							"referenceName": "AzureBlobStorage1",
+							"type": "LinkedServiceReference"
+						},
+						"path": "",
+						"enableCompression": false
+					},
 					"translator": {
 						"type": "TabularTranslator",
 						"mappings": [
