@@ -46,7 +46,7 @@
 							{
 								"source": {
 									"type": "String",
-									"ordinal": 2
+									"ordinal": 1
 								},
 								"sink": {
 									"name": "LastName",
@@ -56,7 +56,7 @@
 							{
 								"source": {
 									"type": "String",
-									"ordinal": 1
+									"ordinal": 2
 								},
 								"sink": {
 									"name": "FirstName",
