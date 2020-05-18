@@ -1,0 +1,10 @@
+{
+	"name": "ADLS1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adfdatalakestorage1.dfs.core.windows.net"
+		}
+	}
+}
