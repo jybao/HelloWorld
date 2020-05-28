@@ -1,0 +1,8 @@
+{
+	"name": "Pipeline3",
+	"properties": {
+		"description": "logging test",
+		"concurrency": 1,
+		"annotations": []
+	}
+}
