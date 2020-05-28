@@ -71,13 +71,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "CustomerData",
+						"referenceName": "AzureSqlTable1",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "CustomerData",
 						"type": "DatasetReference"
 					}
 				]
