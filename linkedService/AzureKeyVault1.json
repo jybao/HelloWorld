@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://brandon-csam-akv.vault.azure.net/"
+			"baseUrl": "https://KV-MEL-CPSS-SEC-CICD.vault.azure.net/"
 		}
 	}
 }
